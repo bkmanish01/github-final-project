@@ -8,4 +8,4 @@
   ### r, annual rate of interest
 
 ## Output:
-  ### &nbsp;simple interest = p$*$t$*$r
+  ### &nbsp;simple interest = $`p*t*r`$
